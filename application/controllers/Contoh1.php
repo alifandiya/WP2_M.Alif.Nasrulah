@@ -1,6 +1,6 @@
 <?php
 
-class Contoh extends CI_Controller {
+class Contoh1 extends CI_Controller {
 
 	/**
 	 * Index Page for this controller.
