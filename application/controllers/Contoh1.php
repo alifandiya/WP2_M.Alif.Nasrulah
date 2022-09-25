@@ -19,7 +19,10 @@ class Contoh1 extends CI_Controller {
 	 */
 	public function index()
 	{
-		echo "perkenalkan";
-        echo "Nama Saya M Alif Nasrulah";
+		echo "<h1>Perkenalkan, Semuanya!</h1>";
+        echo "Nama Saya M Alif Nasrullah.";
+		echo "<p>Saya tinggal di daerah Kota Bekasi Timur.</p>";
+		echo "<p>Ini adalah tugas Web Programming 2 Semester 3.</p>";
+		echo "<p>Di Universitas Bina Sarana Informatika, Bekasi, Cut Meutia.</p>";
 	}
 }
